@@ -52,7 +52,7 @@ window.onload = () => {
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://15.luvle.co.kr",
+          mobileWebUrl: "https://mo15.luvle.co.kr",
           webUrl: "https://mo15.luvle.co.kr",
         },
       },
